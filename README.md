@@ -14,7 +14,7 @@ Currently, my focus is on DevOps and deployments, where I am immersing myself in
 
 My ultimate goal is to maintain a lifelong commitment to learning and to seize opportunities that allow me to tackle new challenges, delivering exceptional products for my clients.
 
-⚡ My informative resume can be found [here](https://docs.google.com/document/d/e/2PACX-1vQ4KvaXZlvLKL3Bsn1_Cj35bMyMQNc87L-ngopg7xdAr4ZszLVFwcWm8gNqjDX5W5P5O-hqVlCKGs4s/pub).
+⚡ My informative resume can be found [here](./assests/Brett-Albright-Resume.pdf).
 
 ⚡ I am also on a little site named LinkedIn [here](https://www.linkedin.com/in/brett-albright/).
 

@@ -4,7 +4,7 @@
 
 My name is Brett Albright.
 
-As a current project lead software engineer at Silicon Based Solutions and part-time web development instructor at Learningfuze with over six years of experience, I not only have the privilege of developing and providing technical oversight on professional full stack applications used by clients all over the United States, but I also am able to mentor hundreds of web development students as they work to start a career in software engineering. My technical expertise spans multiple programming languages, including JavaScript, TypeScript, React.js, Node.js, PHP, Python, Java, C++, and Go, as well as various SQL and NoSQL databases.
+As a current senior software engineer at Silicon Based Solutions and part-time web development instructor at Learningfuze with over six years of experience, I not only have the privilege of developing and providing technical oversight on professional full stack applications used by clients all over the United States, but I also am able to mentor hundreds of web development students as they work to start a career in software engineering. My technical expertise spans multiple programming languages, including JavaScript, TypeScript, React.js, Node.js, PHP, Python, Java, C++, and Go, as well as various SQL and NoSQL databases.
 
 One of the most rewarding aspects of my career is the continuous opportunity to engage with new technologies. I thrive on learning alongside my colleagues and students, embracing both educational and programming challenges to deepen my knowledge and expertise.
 

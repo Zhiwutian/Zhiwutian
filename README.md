@@ -10,7 +10,7 @@ One of the most rewarding aspects of my career is the continuous opportunity to 
 
 I am passionate about leading project teams and guiding new programmers to transform their ideas into functional applications. The collaborative nature of software development allows me to interact with diverse teams and explore multiple approaches to project organization and execution.
 
-Currently, my focus is on leading my dev teams in the planning and implementing two new projects for our client Hyundai USA. One which will allow users to Build and Search through vehicle inventory nationally through a network of over 800 dealers, and another to allow users to setup lease agreements for EV vehicles at the click of a button.
+Currently, my focus is on leading my dev teams in the planning and implementing two new projects for our clients. One which will allow users to Build and Search through vehicle inventory nationally through a network of over 800 dealers, and another to allow users to setup lease agreements for EV vehicles at the click of a button.
 
 My ultimate goal is to maintain a lifelong commitment to learning and to seize opportunities that allow me to tackle new challenges, delivering exceptional products for my clients.
 

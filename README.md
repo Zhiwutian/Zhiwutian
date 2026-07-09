@@ -2,6 +2,8 @@
 
 **Full-Stack Software Engineer | React • React Native • Node.js • AWS | AI-Enhanced Development**
 
+[![📄 Download Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge)](https://github.com/BrettAlbright/BrettAlbright/raw/main/Brett_Albright_Resume_1Page.pdf)
+
 I'm a Project Lead Developer at **Silicon Beach Solutions** where I build and maintain large-scale production web and mobile applications for enterprise clients (including Hyundai USA). I also mentor aspiring developers as a part-time instructor at LearningFuze.
 
 ### What I Do
@@ -11,7 +13,9 @@ I'm a Project Lead Developer at **Silicon Beach Solutions** where I build and ma
 - Design scalable backend systems (DynamoDB, PostgreSQL, AWS)
 
 ### Current Focus
+
 I'm currently working on two major client projects:
+
 - **Hyundai Drive** — Web + React Native mobile application for vehicle test drives and lease agreements
 - **Hyundai Build & Search Inventory** — Large-scale DynamoDB-powered inventory search platform serving 300k+ vehicles across 800+ dealers
 
@@ -24,6 +28,7 @@ I'm currently working on two major client projects:
 **Tools:** Git, GitHub, VS Code, Figma, Vercel, Docker, AI-assisted development workflows
 
 ### Background
+
 - **Project Lead Developer** at Silicon Beach Solutions (June 2024 – Present)
 - **Senior Instructor & Developer** at LearningFuze (2019 – Present)
 - B.S. Computer Science, Fort Hays State University (Expected 2027)
@@ -34,4 +39,4 @@ I'm passionate about clean code, mentoring developers, and leveraging modern AI 
 ---
 
 Let's connect!  
-[LinkedIn](https://www.linkedin.com/in/brett-albright/) • [Email](mailto:albrightinnovationsllc@gmail.com) • [Resume](https://github.com/Zhiwutian/Zhiwutian/tree/master/assests/Brett_Albright_Resume_1Page.pdf)
+[LinkedIn](https://www.linkedin.com/in/brett-albright/) • [Email](mailto:brettwalbright@gmail.com)

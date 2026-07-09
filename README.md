@@ -1,32 +1,37 @@
-## Hello there 👋
+## Hi, I'm Brett Albright 👋
 
-😄 About Me:
+**Full-Stack Software Engineer | React • React Native • Node.js • AWS | AI-Enhanced Development**
 
-My name is Brett Albright.
+I'm a Project Lead Developer at **Silicon Beach Solutions** where I build and maintain large-scale production web and mobile applications for enterprise clients (including Hyundai USA). I also mentor aspiring developers as a part-time instructor at LearningFuze.
 
-As a current senior software engineer at Silicon Based Solutions and part-time web development instructor at Learningfuze with over six years of experience, I not only have the privilege of developing and providing technical oversight on professional full stack applications used by clients all over the United States, but I also am able to mentor hundreds of web development students as they work to start a career in software engineering. My technical expertise spans multiple programming languages, including JavaScript, TypeScript, React.js, Node.js, PHP, Python, Java, C++, and Go, as well as various SQL and NoSQL databases.
+### What I Do
+- Lead development on high-traffic applications used nationwide
+- Recently drove a **200% increase in team productivity** by championing **Cursor** (AI-powered code editor) and modern AI-assisted workflows
+- Build cross-platform mobile experiences with **React Native** (iOS & Android)
+- Design scalable backend systems (DynamoDB, PostgreSQL, AWS)
 
-One of the most rewarding aspects of my career is the continuous opportunity to engage with new technologies. I thrive on learning alongside my colleagues and students, embracing both educational and programming challenges to deepen my knowledge and expertise.
+### Current Focus
+I'm currently working on two major client projects:
+- **Hyundai Drive** — Web + React Native mobile application for vehicle test drives and lease agreements
+- **Hyundai Build & Search Inventory** — Large-scale DynamoDB-powered inventory search platform serving 300k+ vehicles across 800+ dealers
 
-I am passionate about leading project teams and guiding new programmers to transform their ideas into functional applications. The collaborative nature of software development allows me to interact with diverse teams and explore multiple approaches to project organization and execution.
+### Tech Stack
 
-Currently, my focus is on leading my dev teams in the planning and implementing two new projects for our clients. One which will allow users to Build and Search through vehicle inventory nationally through a network of over 800 dealers, and another to allow users to setup lease agreements for EV vehicles at the click of a button.
+**Strong:** JavaScript, TypeScript, React, React Native, Node.js, Express, PostgreSQL, REST APIs, Vite, Cursor (AI tooling)
 
-My ultimate goal is to maintain a lifelong commitment to learning and to seize opportunities that allow me to tackle new challenges, delivering exceptional products for my clients.
+**Experienced:** DynamoDB, AWS (S3, DynamoDB), Tailwind CSS, Python, Java, C++, Go, MongoDB
 
-⚡ My informative resume can be found [here](./assests/Brett-Albright-Resume.pdf).
+**Tools:** Git, GitHub, VS Code, Figma, Vercel, Docker, AI-assisted development workflows
 
-⚡ I am also on a little site named LinkedIn [here](https://www.linkedin.com/in/brett-albright/).
+### Background
+- **Project Lead Developer** at Silicon Beach Solutions (June 2024 – Present)
+- **Senior Instructor & Developer** at LearningFuze (2019 – Present)
+- B.S. Computer Science, Fort Hays State University (Expected 2027)
+- Full-Stack Web Development, LearningFuze (2018)
 
+I'm passionate about clean code, mentoring developers, and leveraging modern AI tooling to build better products faster. Always open to interesting freelance/contract opportunities and new technologies.
 
+---
 
-
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ... -->
+Let's connect!  
+[LinkedIn](https://www.linkedin.com/in/brett-albright/) • [Email](mailto:albrightinnovationsllc@gmail.com)

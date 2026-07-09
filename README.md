@@ -2,8 +2,6 @@
 
 **Full-Stack Software Engineer | React • React Native • Node.js • AWS | AI-Enhanced Development**
 
-[![📄 Download Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge)](https://github.com/BrettAlbright/BrettAlbright/raw/main/Brett_Albright_Resume_1Page.pdf)
-
 I'm a Project Lead Developer at **Silicon Beach Solutions** where I build and maintain large-scale production web and mobile applications for enterprise clients (including Hyundai USA). I also mentor aspiring developers as a part-time instructor at LearningFuze.
 
 ### What I Do
@@ -39,4 +37,4 @@ I'm passionate about clean code, mentoring developers, and leveraging modern AI 
 ---
 
 Let's connect!  
-[LinkedIn](https://www.linkedin.com/in/brett-albright/) • [Email](mailto:brettwalbright@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/brett-albright/) • [Email](mailto:brettwalbright@gmail.com) • [Resume](https://github.com/BrettAlbright/BrettAlbright/raw/main/Brett_Albright_Resume_1Page.pdf)

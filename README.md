@@ -37,4 +37,4 @@ I'm passionate about clean code, mentoring developers, and leveraging modern AI 
 ---
 
 Let's connect!  
-[LinkedIn](https://www.linkedin.com/in/brett-albright/) • [Email](mailto:brettwalbright@gmail.com) • [Resume](https://github.com/BrettAlbright/BrettAlbright/raw/main/Brett_Albright_Resume_1Page.pdf)
+[LinkedIn](https://www.linkedin.com/in/brett-albright/) • [Email](mailto:brettwalbright@gmail.com) • [Resume](https://github.com/BrettAlbright/BrettAlbright/raw/master/Brett_Albright_Resume_1Page.pdf)

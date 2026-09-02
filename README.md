@@ -2,9 +2,9 @@
 
 Full-stack software engineer. React, TypeScript, Node.js, PostgreSQL, AWS, and React Native (iOS & Android). Los Angeles / remote.
 
-Recently Project Lead Developer (contract) at Silicon Beach Solutions (June 2024 – August 2026) on Hyundai USA platforms: test-drive site, Drive (web + React Native), and nationwide Build & Search inventory. I also led the team’s adoption of Cursor on that work.
+Recently Project Lead Developer (contract) at Silicon Beach Solutions (June 2024 – August 2026) on Hyundai USA platforms: test-drive site, Drive (web + React Native), and nationwide Build & Search inventory (DynamoDB architecture I designed — 300k+ vehicles, 800+ dealers, low-latency radius/zip search; Java team built the backend). I also led the team’s adoption of Cursor on that work.
 
-Before and alongside that: LearningFuze (June 2018 – December 2025) — instructor and developer (React, Node, PostgreSQL, LMS, curriculum).
+Before and alongside that: LearningFuze (June 2018 – December 2025) — Assistant Instructor, Full Immersion Instructor, then Senior Instructor / Developer (full-time through June 2024, then part-time). Instructed and mentored hundreds of students in React, Node, and PostgreSQL; shipped LMS and curriculum.
 
 Looking for a full-time software engineering role. Open to contract in the near term.
 
